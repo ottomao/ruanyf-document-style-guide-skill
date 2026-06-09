@@ -1,5 +1,5 @@
 ---
-name: 阮一峰中文技术文档的写作规范
+name: ruanyf-document-style-guide
 description: 汇集了阮一峰中文技术文档的写作规范，帮助优化文档风格
 ---
 
